@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4h0082/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 皇元風雅前集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 22:40:32.914974'
+  source:
+    repository: kanripo
+    path: KR4h0082/KR4h0082_000.txt
+hash: sha256:f7a66a722a1394cb2dce897c4f0bd2af2aca545a6ef13381ecd4d6a4f63593d8
