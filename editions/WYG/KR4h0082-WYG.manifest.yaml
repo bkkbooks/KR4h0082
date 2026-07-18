@@ -27,11 +27,11 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR4h0082_000-WYG.markers.yaml, hash: 'sha256:de0273ca5d9ea3f8e9821d0386cf4be2e934452a6546a7ec1aa9c84f1b55c3d5'}
   - {seq: 1, role: markers, filename: assets/KR4h0082_001-WYG.markers.yaml, hash: 'sha256:474c5edff04e5828739a77f887508c49eb6687486521a6e0a767fc526f55c4d1'}
-  - {seq: 2, role: markers, filename: assets/KR4h0082_002-WYG.markers.yaml, hash: 'sha256:ce28ec05d91187bca07d9a5a9f5645eab38b7f0b8e35bdb2651c4dc7f0c4f620'}
-  - {seq: 3, role: markers, filename: assets/KR4h0082_003-WYG.markers.yaml, hash: 'sha256:ff88d337b7ac93f921ddb08313739abbc512b25b86e4e0151e4dd3b5e93cfe44'}
-  - {seq: 4, role: markers, filename: assets/KR4h0082_004-WYG.markers.yaml, hash: 'sha256:3ee18af46c17480dd7ec440f1b699638df31513a6d859658c953bf886b25d43f'}
+  - {seq: 2, role: markers, filename: assets/KR4h0082_002-WYG.markers.yaml, hash: 'sha256:2fa8bf49194d11e252180f6b4537445a24233e1c36a97d23ea26d80ce90ec65d'}
+  - {seq: 3, role: markers, filename: assets/KR4h0082_003-WYG.markers.yaml, hash: 'sha256:2daa47dc784023bfdb206b3374a902fd2e7b674f1a882261cc6f70c7ae26ffd0'}
+  - {seq: 4, role: markers, filename: assets/KR4h0082_004-WYG.markers.yaml, hash: 'sha256:631944fc008260359d9959e8eed9cf3ccc63d77fe1cb03451392b32243a1ed10'}
   - {seq: 5, role: markers, filename: assets/KR4h0082_005-WYG.markers.yaml, hash: 'sha256:b459929040f7de236925140638b4ab8e815b2d2b72e94d680875aaae9fc6d532'}
-  - {seq: 6, role: markers, filename: assets/KR4h0082_006-WYG.markers.yaml, hash: 'sha256:2f2d977151708e5d02a65b40847e4cdfce8e33d6696ce1056ff6b84a6d70ac0f'}
+  - {seq: 6, role: markers, filename: assets/KR4h0082_006-WYG.markers.yaml, hash: 'sha256:530ce644ae0758e8954afb59f9238ceb27f98eb8455b17eb44871c670091529b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -103,4 +103,4 @@ table_of_contents:
   label: juan 006
   type: section
   level: 1
-hash: sha256:053740aec08498245b46ed290cd30980d0c216f9b234fb69109761a691bbeab1
+hash: sha256:d7562993d1afbc6d00a75bcde8830ab84695f7b902e960357ea66d6238ea7513
